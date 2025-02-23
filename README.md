@@ -5,6 +5,7 @@
 Dans ce projet de Big Data Frameworks, le rendu comprend une réponse en Spark sur l'identification des travaux et tâches les plus prenants en CPU et en mémoire vive, ainsi qu'un rapport illustrant et justifiant chaque étapes. L'objectif de ce module a été de développer des connaissances dans le domaine de la Big Data. 
 
 ## Architecture
+
 - doc/ : Les consignes du projet et un rapport.
 - src/ : Les fichiers sources d'implémentation de la solution.
 
@@ -21,6 +22,7 @@ Disposer des données au préalable hébergées sur Google Drive et disposer d'u
 2. Se déplacer dans le dossier src/ et importer ce notebook dans une plateforme dédiée.
 
 3. Exécuter les différents blocs après s'être assuré que les chemins d'accès aux données soient correctes.
+
 ## Auteur
 
 **Cy Tech - Berdoyes Florent, Clémenceau Maxime, Honor Julien, Pauly Alexandre et Sabadie Laura**
