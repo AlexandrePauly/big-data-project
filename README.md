@@ -31,4 +31,4 @@ Projet réalisé dans le cadre du cours Big Data Frameworks.
 
 ## Licence
 
-Ce projet est sous licence libre. Vous êtes libre de l'utiliser et de le modifier selon vos besoins.
+Ce projet est sous licence libre. Vous êtes libre de l'utiliser et de le modifier selon vos besoins. 
